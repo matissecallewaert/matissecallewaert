@@ -48,7 +48,7 @@ A programmer-centric game where factions compete for dominance by implementing c
 
   A web app to detect and identify objects in drone images.
 
-  <img src="./assets/nulvision.png" width="600px" >
+  <img src="./assets/nulvision.png" width="600px" />
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gitlab,js,py,tensorflow" />
@@ -74,7 +74,7 @@ A programmer-centric game where factions compete for dominance by implementing c
 
 A straightforward music player app built using Kotlin.
 
-<img src="./assets/music_player.jpg" width="200px" box-shadow="rgba(255,140,0, 0.5) 0px 0px 40px 0px">
+<img src="./assets/music_player.jpg" width="200px"/>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
