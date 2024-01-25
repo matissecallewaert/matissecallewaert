@@ -2,7 +2,7 @@
 
 I'm Matisse Callewaert, a software developer 👨‍💻 based in Belgium 🇧🇪.
 
-I'm currently pursuing my master's in information technology at the University of Ghent. Alongside my studies, I work at a company where I contribute to maintaining and developing a SaaS application. During my free time, I indulge in coding web games 🎮, and lately, I've been delving into implementing microservice 🔬 techniques into my designs.
+I'm currently pursuing my master's in information technology at the University of Ghent. Alongside my studies, I work at a company where I contribute to maintaining and developing a WaaS application. During my free time, I indulge in coding web games 🎮, and lately, I've been delving into implementing microservice 🔬 techniques into my designs.
 <div align="center">
    
 ## Quick Overview
