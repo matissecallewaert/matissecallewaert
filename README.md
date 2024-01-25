@@ -17,7 +17,7 @@ I'm currently pursuing my master's in information technology at the University o
 
 | Sales2Cash 👔 | Faction Game 🎲 |
 | ------------ | ------------- |
-| <div align="center">A SaaS solution enabling businesses to track invoices and optimize cash flow management.<img src="./assets/sales2cash.png" width="600px" ><br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,docker,aws,azure,angular postgresql"/></a></div>      | <div align="center">A programmer-centric game where factions compete for dominance by implementing custom decision logic for their units and bases.<img src="./assets/faction.png" width="600px" /><br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,ts,react,prisma,mysql,nodejs,docker"></a></div>       |
+| <div align="center">A WaaS solution enabling businesses to track invoices and optimize cash flow management.<img src="./assets/sales2cash.png" width="600px" ><br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,docker,aws,azure,angular postgresql"/></a></div>      | <div align="center">A programmer-centric game where factions compete for dominance by implementing custom decision logic for their units and bases.<img src="./assets/faction.png" width="600px" /><br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,ts,react,prisma,mysql,nodejs,docker"></a></div>       |
 
 
 | NulVision | Simple music player app 🎵 |
