@@ -28,7 +28,7 @@ I'm currently pursuing my master's in information technology at the University o
 
 | RustiFlow ✍️                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <div align="center">A tool for extracting features in network intrusion systems. <a href="https://github.com/matissecallewaert/nids-feature-extraction-tool">Repository</a><br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,rust,bash" /></a></div> |
+| <div align="center">A tool for extracting features in network intrusion systems. <a href="https://github.com/matissecallewaert/RustiFlow"><img src="./assets/RustiFlow.png"></a><br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,rust,bash" /></a></div> |
 
 # What I'm currently learning 📚
 
