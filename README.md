@@ -26,7 +26,7 @@ I'm currently pursuing my master's in information technology at the University o
 | <div align="center">A web app to detect and identify objects in drone images.<img src="./assets/nulvision.png" width="600px" /><br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gitlab,js,py,tensorflow" /></a></div> | <div align="center" style="margin-bottom: 20px">A website where you can train an AI to play tetris or play tetris yourself.<img src="./assets/tetris-ai.png" width="600px"/><br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" /></a></div> |
 
 
-| Master thesis ✍️                                                                                                                                                                                                                                                                      |
+| RustiFlow ✍️                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <div align="center">A tool for extracting features in network intrusion systems. <a href="https://github.com/matissecallewaert/nids-feature-extraction-tool">Repository</a><br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,rust,bash" /></a></div> |
 
